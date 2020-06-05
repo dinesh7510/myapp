@@ -5,12 +5,10 @@
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
 	<version>2.0</version>
-	<name>simple-app</name>
+	<name>myapp</name>
 	<url>http://maven.apache.org</url>
 	
 	<dependencies>
-
-		
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
